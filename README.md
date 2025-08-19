@@ -47,6 +47,9 @@ With test data loaded
 
 <img width="753" height="650" alt="image" src="https://github.com/user-attachments/assets/9c0d7b3b-1bf0-45bf-8571-68acb01f3d2f" />
 
+#### Example Putawy Walk Sheet
+
+<img width="1011" height="738" alt="image" src="https://github.com/user-attachments/assets/49e993fc-01f5-4f15-a728-65bdd9a0ec19" />
 
 
 
