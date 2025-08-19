@@ -25,6 +25,8 @@ The initial version of this application was created to address a common pain poi
 
 This project showcases my ability to develop a scalable application that solves a real-world business problem. The evolution from a simple data viewer to a multi-featured inventory management tool demonstrates a strong focus on adding value through continuous development and user-centric design.
 
+---
+
 #### Login Form
 
 <img width="271" height="425" alt="image" src="https://github.com/user-attachments/assets/4038d21b-d452-4e18-b352-c4861984eef1" />
