@@ -25,3 +25,28 @@ The initial version of this application was created to address a common pain poi
 
 This project showcases my ability to develop a scalable application that solves a real-world business problem. The evolution from a simple data viewer to a multi-featured inventory management tool demonstrates a strong focus on adding value through continuous development and user-centric design.
 
+#### Login Form
+
+<img width="271" height="425" alt="image" src="https://github.com/user-attachments/assets/4038d21b-d452-4e18-b352-c4861984eef1" />
+
+#### Main Form
+
+With test data loaded
+
+<img width="348" height="971" alt="image" src="https://github.com/user-attachments/assets/bc728d7f-51d9-4deb-b51c-277375f95ac8" />
+
+#### Putaway Form
+
+<img width="678" height="489" alt="image" src="https://github.com/user-attachments/assets/268a476b-9037-43b7-9aa0-da3242fac877" />
+
+#### Barcode Checker
+
+<img width="526" height="482" alt="image" src="https://github.com/user-attachments/assets/d73ea77e-b2cc-444b-a14e-92ced5a1b80c" />
+
+#### Stock Movements Form
+
+<img width="753" height="650" alt="image" src="https://github.com/user-attachments/assets/9c0d7b3b-1bf0-45bf-8571-68acb01f3d2f" />
+
+
+
+
